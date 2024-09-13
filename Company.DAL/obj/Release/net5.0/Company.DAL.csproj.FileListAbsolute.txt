@@ -1,0 +1,12 @@
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\bin\Release\net5.0\Company.DAL.deps.json
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\bin\Release\net5.0\Company.DAL.dll
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\bin\Release\net5.0\Company.DAL.pdb
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\Company.DAL.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\Company.DAL.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\Company.DAL.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\Company.DAL.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\Company.DAL.dll
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\refint\Company.DAL.dll
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\Company.DAL.pdb
+C:\Users\moham\OneDrive\Desktop\ASSIGNMENT\C#\Company.PL\Company.DAL\obj\Release\net5.0\ref\Company.DAL.dll
